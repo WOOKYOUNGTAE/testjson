@@ -1,4 +1,4 @@
-{ "itemList": [ { "title": "가장 큰 혜택", "author": "완전판 설치", "url": "https://github.com/WOOKYOUNGTAE/testjson/blob/main/banner1.png" },
+{ "itemList": [ { "title": "가장 큰 혜택", "author": "완전판 설치", "url": "https://github.com/WOOKYOUNGTAE/testjson/blob/main/banner1.png?raw=true" },
 { "title": "원스토어에서", "author": "완전판 설치", "url": "https://m.mrblue.com/images/footer/ico-footer-install-onestore.svg" }, 
 { "title": "Google Play에서", "author": "일반판 설치", "url": "https://m.mrblue.com/images/footer/ico-footer-install-googleplay.svg" }, 
 { "title": "무협만화 플랫폼", "author": "강툰 설치", "url":"https://m.mrblue.com/images/footer/ico-footer-install-gangtoon.svg" }
