@@ -1,0 +1,11 @@
+{ "itemList": [ { "title": "BL", "url": "https://github.com/WOOKYOUNGTAE/testjson/blob/main/banner1.png?raw=true" },
+{ "title": "성인", "url": "https://github.com/WOOKYOUNGTAE/testjson/blob/main/banner2.png?raw=true" }, 
+{ "title": "무협", "url": "https://github.com/WOOKYOUNGTAE/testjson/blob/main/banner3.png?raw=true" }, 
+{ "title": "할리퀸", "url":"https://github.com/WOOKYOUNGTAE/testjson/blob/main/banner4.png?raw=true" },
+{ "title": "순정", "url":"https://github.com/WOOKYOUNGTAE/testjson/blob/main/banner4.png?raw=true" },
+{ "title": "드라마", "url":"https://github.com/WOOKYOUNGTAE/testjson/blob/main/banner4.png?raw=true" },
+{ "title": "액션", "url":"https://github.com/WOOKYOUNGTAE/testjson/blob/main/banner4.png?raw=true" },
+{ "title": "학원", "url":"https://github.com/WOOKYOUNGTAE/testjson/blob/main/banner4.png?raw=true" },
+{ "title": "판타지/SF", "url":"https://github.com/WOOKYOUNGTAE/testjson/blob/main/banner4.png?raw=true" },
+{ "title": "스포츠", "url":"https://github.com/WOOKYOUNGTAE/testjson/blob/main/banner4.png?raw=true" }
+] }
