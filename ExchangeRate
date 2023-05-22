@@ -1,9 +1,9 @@
-{ "itemList": [ { "title": "USDKRW 달러", "author": "1317.77", "url": "https://github.com/WOOKYOUNGTAE/testjson/blob/main/US.jpg" }, 
-{ "title": "JPYKRW 일본 엔", "author": "9.540", "url": "https://github.com/WOOKYOUNGTAE/testjson/blob/main/JP.jpg" }, 
-{ "title": "EURKRW 유로", "author": "1424.3", "url": "https://github.com/WOOKYOUNGTAE/testjson/blob/main/EU.jpg" }, 
-{ "title": "CNYKRW 중국 위안", "author": "187.587", "url": "https://github.com/WOOKYOUNGTAE/testjson/blob/main/CN.jpg" },
-{ "title": "AUDKRW 호주 달러", "author": "875.90", "url": "https://github.com/WOOKYOUNGTAE/testjson/blob/main/AU.jpg" },
-{ "title": "CADKRW 캐나다 달러", "author": "975.86", "url": "https://github.com/WOOKYOUNGTAE/testjson/blob/main/CA.jpg" },
-{ "title": "BTCKRW 비트 코인", "author": "35760000", "url": "https://github.com/WOOKYOUNGTAE/testjson/blob/main/XTVCBTC.jpg" },
-{ "title": "USDEUR^0.576*F 달러 인덱스", "author": "103.1074", "url": "https://github.com/WOOKYOUNGTAE/testjson/blob/main/XTVCBTC.jpg" }
+{ "itemList": [ { "title": "USDKRW 달러", "author": "1317.77", "url": "https://github.com/WOOKYOUNGTAE/testjson/blob/main/US.jpg?raw=true" }, 
+{ "title": "JPYKRW 일본 엔", "author": "9.540", "url": "https://github.com/WOOKYOUNGTAE/testjson/blob/main/JP.jpg?raw=true" }, 
+{ "title": "EURKRW 유로", "author": "1424.3", "url": "https://github.com/WOOKYOUNGTAE/testjson/blob/main/EU.jpg?raw=true" }, 
+{ "title": "CNYKRW 중국 위안", "author": "187.587", "url": "https://github.com/WOOKYOUNGTAE/testjson/blob/main/CN.jpg?raw=true" },
+{ "title": "AUDKRW 호주 달러", "author": "875.90", "url": "https://github.com/WOOKYOUNGTAE/testjson/blob/main/AU.jpg?raw=true" },
+{ "title": "CADKRW 캐나다 달러", "author": "975.86", "url": "https://github.com/WOOKYOUNGTAE/testjson/blob/main/CA.jpg?raw=true" },
+{ "title": "BTCKRW 비트 코인", "author": "35760000", "url": "https://github.com/WOOKYOUNGTAE/testjson/blob/main/XTVCBTC.jpg?raw=true" },
+{ "title": "USDEUR^0.576*F 달러 인덱스", "author": "103.1074", "url": "https://github.com/WOOKYOUNGTAE/testjson/blob/main/XTVCBTC.jpg?raw=true" }
 ] }
