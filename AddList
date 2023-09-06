@@ -49,21 +49,37 @@
         "body": "편식 안하기",
         "study": "공부 시간 지키기",
         "language": "기타",
+        "time": "",
         "sphone": "기타",
-        "home": "빨랫감 제자리 두기"
+        "home": "빨랫감 제자리 두기",
+        "school": ""
     },
     {
         "body": "간식 조절하기",
         "study": "기타",
-        "home": "외출복 걸어 두기"
+        "language": "",
+        "time": "",
+        "sphone": "",
+        "home": "외출복 걸어 두기",
+        "school": ""
     },
     {
         "body": "치실하기",
-        "home": "애완동물 걸어 두기"
+        "study": "",
+        "language": "",
+        "time": "",
+        "sphone": "",
+        "home": "애완동물 걸어 두기",
+        "school": ""
     },
     {
         "body": "기타",
-        "home": "기타"
+        "study": "",
+        "language": "",
+        "time": "",
+        "sphone": "",
+        "home": "기타",
+        "school": ""
     }
     ]
 }
