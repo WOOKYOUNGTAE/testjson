@@ -12,7 +12,7 @@
         "effect": "이런 효과를 볼 수 있어요.\n우리 아이들의 필수품이 된 스마트폰을 성장의 도우미로 슬기롭게\n활용하면서 올바른 디지털 생활 습관을 지닐 수 있어요.\n1. 인터넷과 스마트폰 과의존을 예방하고 치유할 수 있습니다.\n2.디지털 리터러시 역량을 체계적으로 갖춰 나갈 수 있습니다.\n3. 아이 스스로 바른 스마트폰 생활 습관을 만들 수 있습니다.\n4. 부모와 자녀 간 스마트폰으로 인한 갈등이 줄어들어 가족\n관계가 화목해져요.\n5. 미래 사회가 원하는 디지털 인재로 성장할 수 있습니다."
         },
         {
-        "task": "3",
+        "task": ["일", "이", "삼"],
         "title": "ZEM나는 스마트폰 사용 습관(초등 고)",
         "contents": "스스로! 스마트폰 사용 습관을 만드는 방법",
         "profile": "https://i.namu.wiki/i/Q6BIqhZWqyhBAFmeZoOWIFO2Ttw1X0xOimLTY0WyohXIadIRIoxaAWc6yoggyEKohkI3aDCoKXsBlp6rvL-MFg.webp",
@@ -21,7 +21,7 @@
         "expertPR": "홍성관 교수님은 '게임 심리학' 교수이자 과도한 스마트폰 의존 예방 및 바른\n사용 교육 전문가입니다. 한국지능정보사회진흥원(NIA)과 여러 기관에서,\n스마트폰/게임/인터넷 동영상을 똑똑하고 건강하게 이용하도록 돕는 다양한\n교육 콘텐츠를 만들고 가르치고 있어요."
         },
         {
-         "task": "3",
+         "task": ["일", "이", "삼"],
         "title": "ZEM나는 게임 사용 습관(초등 고)",
         "contents": "스스로! 게임 사용 습관을 만드는 방법",
         "profile": "https://i.namu.wiki/i/Q6BIqhZWqyhBAFmeZoOWIFO2Ttw1X0xOimLTY0WyohXIadIRIoxaAWc6yoggyEKohkI3aDCoKXsBlp6rvL-MFg.webp",
@@ -30,7 +30,7 @@
         "expertPR": "홍성관 교수님은 '게임 심리학' 교수이자 과도한 스마트폰 의존 예방 및 바른\n사용 교육 전문가입니다. 한국지능정보사회진흥원(NIA)과 여러 기관에서,\n스마트폰/게임/인터넷 동영상을 똑똑하고 건강하게 이용하도록 돕는 다양한\n교육 콘텐츠를 만들고 가르치고 있어요."
         },
         {
-         "task": "2",
+         "task": ["일", "이", "삼"],
         "title": "ZEM나는 인터넷 동영상 시청 습관(초등 고)",
         "contents": "인터넷동영상 사용 습관을 만드는 방법",
         "profile": "https://i.namu.wiki/i/Q6BIqhZWqyhBAFmeZoOWIFO2Ttw1X0xOimLTY0WyohXIadIRIoxaAWc6yoggyEKohkI3aDCoKXsBlp6rvL-MFg.webp",
